@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa830d38-ea9e-4c1c-a114-844b7a82f22b" name="Changes" comment="initials">
+    <list default="true" id="aa830d38-ea9e-4c1c-a114-844b7a82f22b" name="Changes" comment="mini projects">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782381106818</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="mini projects">
+      <option name="closed" value="true" />
+      <created>1782392047010</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1782392047010</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initials" />
-    <option name="LAST_COMMIT_MESSAGE" value="initials" />
+    <MESSAGE value="mini projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="mini projects" />
   </component>
 </project>
